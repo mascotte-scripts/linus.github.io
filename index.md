@@ -4,4 +4,4 @@ Linus is a framework for the Grand Theft Auto V multiplayer modification, FiveM 
 
 ## Why name the project Linus?
 
-It's named after creator of Linux, Linus Torvalds. Linux is a personal favourite of Mascotte45, who actually used Debian Linux for some of his early FiveM projects.
+It's named after creator of Linux, Linus Torvalds. Linux is a personal favourite OS of Mascotte45
