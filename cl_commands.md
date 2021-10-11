@@ -3,7 +3,7 @@
 ## Dependencies
 None
 
-# Installation
+## Installation
 - Download the latest release from the side tab, and extract the folder 'linus' and it's contents to your resource folder.
 - Alternatively, clone the repo using `https://github.com/mascotte-scripts/linus.git`
 - Copy `valkyrie.cfg, LinusConfig.cfg, LinusPerms.cfg` from the linus folder to the same folder as `server.cfg` 
